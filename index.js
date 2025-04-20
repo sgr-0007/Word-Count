@@ -15,7 +15,7 @@ const docs = {
     example: "The quick brown fox jumps over the lazy dog"
   },
   output: {
-    type: "integer",
+    type: "number",
     description: "How many words were found in the input",
     example: 9
   }
